@@ -1,0 +1,9 @@
+{
+	"network-configs": {
+		"test-network": {
+			"name": "Hyperledger Fabric Test Network",
+			"profile": "./connection-profile/hyperledger-fabric-test-network.json"
+		}
+	},
+	"license": "Apache-2.0"
+}
